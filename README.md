@@ -4,8 +4,8 @@ Este é um projeto desenvolvido como parte do curso de Desenvolvimento Web com H
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS
 - Bootstrap 4  
 - Font Awesome
 
